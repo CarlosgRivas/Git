@@ -1,1 +1,1 @@
-print("Git 3")
+print("Git 3 (three)")
